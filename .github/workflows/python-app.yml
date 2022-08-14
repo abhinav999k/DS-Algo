@@ -36,4 +36,3 @@ jobs:
       - name: Print Output
         run: |
           python3 ./fibonacci-dynamic.py
-          shell: sh
